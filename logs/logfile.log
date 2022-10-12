@@ -1,0 +1,8 @@
+[ERROR] 2022-03-09 09:07:47.312 [main] Main - This is an error message
+[FATAL] 2022-03-09 09:07:47.312 [main] Main - This is a fatal message
+[ERROR] 2022-03-09 09:07:47.312 [main] OtherClassLoggers - This is an error message creepyTask
+[FATAL] 2022-03-09 09:07:47.312 [main] OtherClassLoggers - This is a fatal message creepyTask
+[ERROR] 2022-03-09 09:11:53.967 {main} [Main] - This is an error message
+[FATAL] 2022-03-09 09:11:53.967 {main} [Main] - This is a fatal message
+[ERROR] 2022-03-09 09:11:53.967 {main} [OtherClassLoggers] - This is an error message creepyTask
+[FATAL] 2022-03-09 09:11:53.967 {main} [OtherClassLoggers] - This is a fatal message creepyTask
